@@ -1,4 +1,6 @@
 # SOLIDITYX
+[![Solidity](https://img.shields.io/badge/Solidity-0.8.18-blue)](https://soliditylang.org/)
+[![Metacrafter](https://img.shields.io/badge/Metacrafter-Amazing-orange)](https://www.metacrafters.io/)
 
 A baisc Solidity program to create a dummy token `SOLIDITYX` .  
 
