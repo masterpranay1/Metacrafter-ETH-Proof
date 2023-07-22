@@ -56,8 +56,3 @@ Once the contract is deployed, you can interact with it by calling the `mint` or
 Pranay Raj
 
 [Linkedin](https://www.linkedin.com/in/masterpranay1)
-
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
