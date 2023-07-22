@@ -54,7 +54,8 @@ Once the contract is deployed, you can interact with it by calling the `mint` or
 ## Authors
 
 Pranay Raj
-<a href="www.linkedin.com/in/masterpranay1">Linkedin</a>
+
+[Linkedin](https://www.linkedin.com/in/masterpranay1)
 
 
 ## License
